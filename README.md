@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, soy Edgar Jesid 👋
 
-<!--
-**EdgarJesid/EdgarJesid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer** · Java & Kotlin
 
-Here are some ideas to get you started:
+Construyo sistemas backend robustos y APIs bien diseñadas.
+Actualmente trabajando en proyectos propios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tecnologías
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📌 En este momento
+
+- 🔨 Construyendo proyectos backend propios
+- 📚 Profundizando en arquitectura de software y patrones de diseño
+- 🌎 Basado en Colombia
+
+---
+
+### 📊 GitHub Stats
+
+![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+Siempre dispuesto a aprender algo nuevo.
