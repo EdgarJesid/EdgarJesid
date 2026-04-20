@@ -25,10 +25,4 @@ Actualmente trabajando en proyectos propios.
 
 ---
 
-### 📊 GitHub Stats
-
-![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdgarJesid&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
 Siempre dispuesto a aprender algo nuevo.
