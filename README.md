@@ -24,5 +24,10 @@ Actualmente trabajando en proyectos propios.
 - 🌎 Basado en Colombia
 
 ---
+### 🚀 Mi Portafolio
+
+[![Visitar Portafolio](https://img.shields.io/badge/VER_PORTAFOLIO-LIVELINK-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-edgar-jesid.vercel.app)
+
+---
 
 Siempre dispuesto a aprender algo nuevo.
